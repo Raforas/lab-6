@@ -12,6 +12,8 @@
 <input type="email" name="emel"><br>
 <input type="submit" value="REGISTER">
 
+
+
     </form>
     <hr>
   </body>
